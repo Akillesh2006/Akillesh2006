@@ -1,105 +1,128 @@
-<svg width="850" height="240" viewBox="0 0 850 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="850" height="260" viewBox="0 0 850 260" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <!-- Background Gradient -->
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0D1117"/>
-      <stop offset="100%" stop-color="#161B22"/>
+      <stop offset="0%" stop-color="#080B10"/>
+      <stop offset="50%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#121824"/>
     </linearGradient>
 
-    <!-- Name Gradient with Animation -->
-    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+    <!-- Animated Cyber Gradient for Name -->
+    <linearGradient id="cyberGrad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#70A5FD">
-        <animate attributeName="stop-color" values="#70A5FD;#BF91F3;#38BDAE;#70A5FD" dur="6s" repeatCount="indefinite" />
+        <animate attributeName="stop-color" values="#70A5FD;#38BDAE;#BF91F3;#70A5FD" dur="5s" repeatCount="indefinite" />
       </stop>
       <stop offset="50%" stop-color="#BF91F3">
-        <animate attributeName="stop-color" values="#BF91F3;#38BDAE;#70A5FD;#BF91F3" dur="6s" repeatCount="indefinite" />
+        <animate attributeName="stop-color" values="#BF91F3;#70A5FD;#38BDAE;#BF91F3" dur="5s" repeatCount="indefinite" />
       </stop>
       <stop offset="100%" stop-color="#38BDAE">
-        <animate attributeName="stop-color" values="#38BDAE;#70A5FD;#BF91F3;#38BDAE" dur="6s" repeatCount="indefinite" />
+        <animate attributeName="stop-color" values="#38BDAE;#BF91F3;#70A5FD;#38BDAE" dur="5s" repeatCount="indefinite" />
       </stop>
     </linearGradient>
 
-    <!-- Moving Scanner Light -->
-    <linearGradient id="scannerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+    <!-- Moving Holographic Beam -->
+    <linearGradient id="holoBeam" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#70A5FD" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#70A5FD" stop-opacity="0.8"/>
-      <stop offset="100%" stop-color="#BF91F3" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#70A5FD" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#38BDAE" stop-opacity="0"/>
     </linearGradient>
 
+    <!-- Grid Pattern -->
+    <pattern id="hudGrid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#70A5FD" stroke-width="0.5" stroke-opacity="0.07"/>
+    </pattern>
+
     <!-- Glow Filter -->
-    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="10" result="blur"/>
+    <filter id="neonGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
       <feComposite in="SourceGraphic" in2="blur" operator="over"/>
     </filter>
   </defs>
 
-  <!-- Base Card -->
-  <rect x="2" y="2" width="846" height="236" rx="14" fill="url(#bgGrad)" stroke="#30363D" stroke-width="1.5"/>
+  <!-- Card Base -->
+  <rect x="2" y="2" width="846" height="256" rx="14" fill="url(#bgGrad)" stroke="#30363D" stroke-width="1.5"/>
 
-  <!-- Moving Scan Line Beam across top border -->
-  <rect x="0" y="2" width="200" height="2" fill="url(#scannerGrad)">
-    <animateTransform attributeName="transform" type="translate" from="-200,0" to="850,0" dur="4s" repeatCount="indefinite"/>
+  <!-- Holographic Grid Background Overlay -->
+  <rect x="4" y="4" width="842" height="252" rx="12" fill="url(#hudGrid)"/>
+
+  <!-- Cyberpunk Frame Tech Corners -->
+  <!-- Top Left Corner -->
+  <path d="M 16 4 L 40 4 L 40 6 L 18 6 L 18 28 L 16 28 Z" fill="#70A5FD"/>
+  <!-- Top Right Corner -->
+  <path d="M 834 4 L 810 4 L 810 6 L 832 6 L 832 28 L 834 28 Z" fill="#70A5FD"/>
+  <!-- Bottom Left Corner -->
+  <path d="M 16 256 L 40 256 L 40 254 L 18 254 L 18 232 L 16 232 Z" fill="#38BDAE"/>
+  <!-- Bottom Right Corner -->
+  <path d="M 834 256 L 810 256 L 810 254 L 832 254 L 832 232 L 834 232 Z" fill="#38BDAE"/>
+
+  <!-- Moving Laser Scan Line Beam -->
+  <rect x="0" y="2" width="180" height="2" fill="url(#holoBeam)">
+    <animateTransform attributeName="transform" type="translate" from="-180,0" to="850,0" dur="3s" repeatCount="indefinite"/>
   </rect>
 
-  <!-- Ambient Pulsing Glow Blobs -->
-  <circle cx="750" cy="50" r="90" fill="#70A5FD" opacity="0.08" filter="url(#glow)">
-    <animate attributeName="r" values="70;110;70" dur="5s" repeatCount="indefinite" />
-    <animate attributeName="opacity" values="0.05;0.12;0.05" dur="5s" repeatCount="indefinite" />
+  <!-- Ambient Glow Circles -->
+  <circle cx="760" cy="60" r="100" fill="#70A5FD" opacity="0.08" filter="url(#neonGlow)">
+    <animate attributeName="r" values="80;120;80" dur="6s" repeatCount="indefinite" />
   </circle>
+  <circle cx="100" cy="200" r="85" fill="#BF91F3" opacity="0.06" filter="url(#neonGlow)"/>
 
-  <circle cx="120" cy="190" r="75" fill="#BF91F3" opacity="0.06" filter="url(#glow)">
-    <animate attributeName="r" values="60;90;60" dur="4s" repeatCount="indefinite" />
-    <animate attributeName="opacity" values="0.04;0.1;0.04" dur="4s" repeatCount="indefinite" />
-  </circle>
-
-  <!-- Decorative Tech Grid (Right Side) -->
-  <g opacity="0.12" fill="#C9D1D9">
-    <circle cx="700" cy="40" r="2"/><circle cx="720" cy="40" r="2"/><circle cx="740" cy="40" r="2"/><circle cx="760" cy="40" r="2"/><circle cx="780" cy="40" r="2"/><circle cx="800" cy="40" r="2"/>
-    <circle cx="700" cy="60" r="2"/><circle cx="720" cy="60" r="2"/><circle cx="740" cy="60" r="2"/><circle cx="760" cy="60" r="2"/><circle cx="780" cy="60" r="2"/><circle cx="800" cy="60" r="2"/>
-    <circle cx="700" cy="80" r="2"/><circle cx="720" cy="80" r="2"/><circle cx="740" cy="80" r="2"/><circle cx="760" cy="80" r="2"/><circle cx="780" cy="80" r="2"/><circle cx="800" cy="80" r="2"/>
-    <circle cx="700" cy="100" r="2"/><circle cx="720" cy="100" r="2"/><circle cx="740" cy="100" r="2"/><circle cx="760" cy="100" r="2"/><circle cx="780" cy="100" r="2"/><circle cx="800" cy="100" r="2"/>
+  <!-- HUD System Status Header Line -->
+  <g transform="translate(48, 38)">
+    <rect x="0" y="0" width="8" height="8" fill="#38BDAE"/>
+    <text x="16" y="8" font-family="'JetBrains Mono', monospace, sans-serif" font-size="11" font-weight="700" fill="#38BDAE" letter-spacing="1.5">SYS_STATUS // ONLINE • CORE ARCHITECTURE MATRIX v3.0</text>
   </g>
 
-  <!-- Left Animated Accent Pulse Bar -->
-  <rect x="36" y="42" width="4" height="156" rx="2" fill="url(#nameGrad)"/>
+  <!-- Main Left Accent Bar -->
+  <rect x="36" y="58" width="4" height="150" rx="2" fill="url(#cyberGrad)"/>
 
   <!-- Header Title -->
-  <text x="56" y="78" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="34" font-weight="800" fill="url(#nameGrad)" letter-spacing="0.5">AKILLESH K P</text>
+  <text x="56" y="96" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="36" font-weight="900" fill="url(#cyberGrad)" letter-spacing="1">AKILLESH K P</text>
 
   <!-- Tagline / Subtitle -->
-  <text x="56" y="110" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="500" fill="#C9D1D9">Software Engineer · Backend Systems &amp; Mobile Developer</text>
+  <text x="56" y="128" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="500" fill="#C9D1D9">Software Engineer · Backend Architecture &amp; AI Systems Developer</text>
 
-  <!-- Micro Pills Container -->
-  <!-- Pill 1: Education -->
-  <g transform="translate(56, 134)">
+  <!-- Futuristic Micro Badge Pills -->
+  <!-- Pill 1: Academic -->
+  <g transform="translate(56, 150)">
     <rect x="0" y="0" width="310" height="28" rx="6" fill="#161B22" stroke="#30363D" stroke-width="1"/>
     <circle cx="14" cy="14" r="4" fill="#38BDAE"/>
     <text x="26" y="18" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500" fill="#8B949E">B.E. CSE @ CIT <tspan fill="#C9D1D9">(2024–2028 | CGPA 8.04)</tspan></text>
   </g>
 
-  <!-- Pill 2: Core Stack -->
-  <g transform="translate(378, 134)">
+  <!-- Pill 2: Stack -->
+  <g transform="translate(378, 150)">
     <rect x="0" y="0" width="220" height="28" rx="6" fill="#161B22" stroke="#30363D" stroke-width="1"/>
     <circle cx="14" cy="14" r="4" fill="#70A5FD"/>
-    <text x="26" y="18" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500" fill="#8B949E">Java 21 · Spring Boot · Android</text>
+    <text x="26" y="18" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500" fill="#8B949E">Java 21 · Spring Boot · Node</text>
   </g>
 
-  <!-- Pill 3: Internship Highlight -->
-  <g transform="translate(610, 134)">
+  <!-- Pill 3: Internship -->
+  <g transform="translate(610, 150)">
     <rect x="0" y="0" width="185" height="28" rx="6" fill="#161B22" stroke="#30363D" stroke-width="1"/>
     <circle cx="14" cy="14" r="4" fill="#BF91F3"/>
     <text x="26" y="18" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500" fill="#8B949E">Google Internship Alum</text>
   </g>
 
-  <!-- Bottom Accent Line -->
-  <path d="M 56 186 L 795 186" stroke="#21262D" stroke-width="1" stroke-dasharray="4 4"/>
+  <!-- Tech Target Reticle Visual (Right Side) -->
+  <g transform="translate(760, 95)" opacity="0.4">
+    <circle cx="0" cy="0" r="35" fill="none" stroke="#70A5FD" stroke-width="1" stroke-dasharray="6 4">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="12s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="0" cy="0" r="22" fill="none" stroke="#BF91F3" stroke-width="1"/>
+    <circle cx="0" cy="0" r="4" fill="#38BDAE"/>
+    <line x1="-42" y1="0" x2="42" y2="0" stroke="#70A5FD" stroke-width="0.5"/>
+    <line x1="0" y1="-42" x2="0" y2="42" stroke="#70A5FD" stroke-width="0.5"/>
+  </g>
+
+  <!-- Separator Line -->
+  <path d="M 56 200 L 795 200" stroke="#21262D" stroke-width="1" stroke-dasharray="4 4"/>
 
   <!-- Live Status Line -->
-  <g transform="translate(56, 204)">
+  <g transform="translate(56, 222)">
     <circle cx="6" cy="-4" r="4" fill="#38BDAE">
       <animate attributeName="opacity" values="1;0.2;1" dur="1.5s" repeatCount="indefinite"/>
-      <animate attributeName="r" values="4;6;4" dur="1.5s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="4;6.5;4" dur="1.5s" repeatCount="indefinite"/>
     </circle>
-    <text x="18" y="0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500" fill="#8B949E">Currently Building: <tspan fill="#70A5FD" font-weight="600">SkillBridge &amp; Adaptive Community</tspan></text>
+    <text x="20" y="0" font-family="'JetBrains Mono', monospace, sans-serif" font-size="12" font-weight="600" fill="#8B949E">CURRENT_ACTIVE: <tspan fill="#70A5FD" font-weight="700">SkillBridge</tspan> · <tspan fill="#BF91F3" font-weight="700">Adaptive Community</tspan> · <tspan fill="#38BDAE" font-weight="700">DevOps Telemetry Platform</tspan></text>
   </g>
 </svg>
