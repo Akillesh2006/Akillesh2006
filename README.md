@@ -1,224 +1,118 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Akillesh%20K%20P&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=CS%20Undergrad%20%7C%20Full-Stack%20Builder%20%7C%20ML%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=62&descSize=17" width="100%"/>
-
-<div align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=70A5FD&center=true&vCenter=true&width=800&lines=Hey+there%21+I%27m+Akillesh+%F0%9F%91%8B;B.E+Computer+Science+%40+CIT+Chennai;Frontend+Dev+%7C+ML+Builder+%7C+Java+%2B+Python;355%2B+LeetCode+Problems+Crushed+%F0%9F%94%A5;Build.+Learn.+Repeat.+%F0%9F%92%A1" alt="Typing SVG" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Akillesh2006&label=Profile+Views&color=70a5fd&style=flat-square&abbreviated=true" />
-  &nbsp;
-  <a href="https://linkedin.com/in/akilleshkp">
-    <img src="https://img.shields.io/badge/LinkedIn-akilleshkp-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:akilleshkp.cse2024@citchennai.net">
-    <img src="https://img.shields.io/badge/Gmail-akilleshkp.cse2024-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/LeetCode-355%20Solved-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/CGPA-8.28-38BDAE?style=flat-square&logo=academia&logoColor=white" />
-</div>
-
----
-
-## 🧑‍💻 About Me
-
-<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
-
-🎓 &nbsp;**B.E Computer Science Engineering** @ Chennai Institute of Technology (2024–2028)
-
-📍 &nbsp;Chennai, Tamil Nadu, India
-
-💡 &nbsp;I love building things — from **responsive web apps** to **ML-powered systems**
-
-🧩 &nbsp;Solved **355 problems on LeetCode** (Easy: 195 · Medium: 153 · Hard: 7)
-
-⚡ &nbsp;**119 problems on SkillRack** across C, C++, Python & Java
-
-🏅 &nbsp;Certified in **CCNA, AI, IoT, Cybersecurity, Data Science** & more
-
-🌱 &nbsp;Currently diving deep into **DSA, REST APIs & Machine Learning**
-
-🎯 &nbsp;Open to **internships, collabs & open source contributions**
-
-💬 &nbsp;Ask me about **Java, Python, Flask, Frontend Dev or anything CS!**
-
-⚡ &nbsp;Fun fact: I debug code faster with lo-fi music playing 🎧
-
-<br clear="right"/>
-
----
-
-## 🛠️ Tech Arsenal
-
 <div align="center">
 
-**Languages**
+# Akillesh K P
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+**Computer Science Engineer — Building backend systems, Android apps, and AI-assisted products**
 
-**Web & Frameworks**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=1200&color=70A5FD&center=true&vCenter=true&width=600&lines=Spring+Boot+%2B+Java;Android+%2F+Kotlin;AI-powered+career+tools;Chennai+Institute+of+Technology" alt="Typing SVG" />
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-**Databases**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-**ML & Data**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-BF91F3?style=for-the-badge&logo=python&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+[![Profile Views](https://komarev.com/ghpvc/?username=Akillesh2006&label=Profile%20Views&color=70A5FD&style=flat-square)](https://github.com/Akillesh2006)
+[![GitHub followers](https://img.shields.io/github/followers/Akillesh2006?label=Followers&style=flat-square&color=70A5FD)](https://github.com/Akillesh2006?tab=followers)
 
 </div>
 
----
+<br>
 
-## 📊 GitHub Stats
+## About
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akillesh2006&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akillesh2006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-</div>
+I'm a CSE undergrad at **Chennai Institute of Technology** (2024–2028, CGPA 8.04/10), working across Spring Boot backends, Android development, and AI-integrated features. Currently building **SkillBridge**, a career-readiness platform, and picking up production experience through internships at Alfido Tech, Google, and Tiranex.
 
----
-
-## 🔥 Streak Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Akillesh2006&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak" />
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akillesh2006&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
-</div>
-
----
-
-## 🏆 Trophy Wall
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Akillesh2006&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
-</div>
-
----
-
-## 💼 Work Experience
-
-<details>
-  <summary><b>🚀 Alfido Tech — Frontend Developer Intern &nbsp;|&nbsp; May 2024 – Jun 2024 &nbsp;|&nbsp; Chennai, India</b></summary>
-  <br/>
-
-  > `HTML` &nbsp; `CSS` &nbsp; `JavaScript` &nbsp; `Git` &nbsp; `REST APIs` &nbsp; `UI/UX`
-
-  - 🖥️ Developed **responsive, interactive web pages** that adapted seamlessly across devices
-  - ⚡ Implemented reusable UI components that significantly improved website **performance and user experience**
-  - 🔗 Collaborated with the dev team to **integrate frontend with backend APIs**
-  - 🛠️ Gained production-level hands-on experience with **modern frontend tooling and Git version control**
-
-</details>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| 🗂️ Project | 🛠️ Stack | ✨ Highlights |
-|:-----------|:---------|:-------------|
-| [**🎓 Adaptive Community Education Ecosystem**](https://github.com/Akillesh2006) | `HTML` `CSS` `JS` `PHP` `MySQL` | Ed-tech platform for rural students · Online courses, doubt forums & teacher-student interaction · Bridges the education gap |
-| [**🤖 AI Powered Smart Restocking System**](https://github.com/Akillesh2006) | `Python` `ML` `Pandas` `Flask` `SQLite` | Predicts product demand & automates restocking · ML-powered demand forecasting & trend analysis · Eliminates stockouts |
-| [**🗃️ Student Information Management System**](https://github.com/Akillesh2006) | `Java` `MySQL` `Swing` | Desktop app with full CRUD for students, courses & faculty · Efficient record management & fast data retrieval |
-
-</div>
-
----
-
-## 🎯 Achievements & Certifications
-
-<div align="center">
-
-| &nbsp; | Achievement | Details |
-|:------:|:------------|:--------|
-| 🧩 | **LeetCode** | **355 problems** solved — Easy: 195 · Medium: 153 · Hard: 7 |
-| ⚡ | **SkillRack** | **119 problems** solved — C: 83 · C++: 7 · Python: 28 · Java: 1 |
-| 🏅 | **CCNA Certified** | Cisco Certified Network Associate |
-| 🤖 | **AI & IoT Certified** | Introduction to Modern AI · IoT & Digital Transformation |
-| 🔐 | **Cybersecurity** | Introduction to Cybersecurity |
-| 📊 | **Data Science** | Introduction to Data Science |
-| 🐍 | **Python & C++** | Python Fundamental · C++ Essential 1 & 2 · HDCA |
-
-</div>
-
----
-
-## 🎓 Education
-
-<div align="center">
-
-| 🎓 Degree | 🏫 Institution | 📅 Year | 📊 Score |
-|:----------|:--------------|:--------|:---------|
-| B.E Computer Science Engineering | Chennai Institute of Technology, Tamil Nadu | 2024 – 2028 | CGPA: **8.28** |
-
-</div>
-
----
-
-## 🌱 Currently Learning
-
-```
-🧱 Data Structures & Algorithms  →  Trees · Graphs · Dynamic Programming
-🤖 Machine Learning              →  Supervised Learning · Model Tuning · Scikit-learn
-🌐 Backend Development           →  REST APIs · Flask · Node.js Basics
-☁️  Cloud & Networking           →  IoT Fundamentals · CCNA Deep Dive
-🔐 Cybersecurity                 →  Network Security · Ethical Hacking Concepts
+```java
+public class Developer {
+    String name = "Akillesh K P";
+    String role = "Backend + Android Developer";
+    String[] focus = {"Spring Boot", "Android", "AI Integration", "System Design"};
+    boolean currentlyBuilding = true;
+}
 ```
 
----
+<br>
+
+## Technology Ecosystem
+
+| | |
+|---|---|
+| **Languages** | ![Java](https://img.shields.io/badge/Java-70A5FD?style=flat-square&logo=openjdk&logoColor=0D1117) ![Kotlin](https://img.shields.io/badge/Kotlin-70A5FD?style=flat-square&logo=kotlin&logoColor=0D1117) ![Python](https://img.shields.io/badge/Python-70A5FD?style=flat-square&logo=python&logoColor=0D1117) ![JavaScript](https://img.shields.io/badge/JavaScript-70A5FD?style=flat-square&logo=javascript&logoColor=0D1117) |
+| **Backend** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-BF91F3?style=flat-square&logo=springboot&logoColor=0D1117) ![Node.js](https://img.shields.io/badge/Node.js-BF91F3?style=flat-square&logo=node.js&logoColor=0D1117) ![Express](https://img.shields.io/badge/Express-BF91F3?style=flat-square&logo=express&logoColor=0D1117) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-38BDAE?style=flat-square&logo=mysql&logoColor=0D1117) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-38BDAE?style=flat-square&logo=postgresql&logoColor=0D1117) |
+| **Mobile / Web** | ![Android](https://img.shields.io/badge/Android-C9D1D9?style=flat-square&logo=android&logoColor=0D1117) ![React](https://img.shields.io/badge/React-C9D1D9?style=flat-square&logo=react&logoColor=0D1117) ![Tailwind](https://img.shields.io/badge/Tailwind-C9D1D9?style=flat-square&logo=tailwindcss&logoColor=0D1117) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-8B949E?style=flat-square&logo=git&logoColor=0D1117) ![Postman](https://img.shields.io/badge/Postman-8B949E?style=flat-square&logo=postman&logoColor=0D1117) ![Android Studio](https://img.shields.io/badge/Android_Studio-8B949E?style=flat-square&logo=androidstudio&logoColor=0D1117) |
+
+<br>
+
+## 🚀 Flagship Project — SkillBridge
+
+**AI-powered career development platform for students**
+
+SkillBridge helps students identify skill gaps and prepare for placements — resume analysis, gap detection, and interview practice, backed by a Spring Boot API.
+
+**Problem it solves:** Students struggle to translate their coursework and projects into a clear, personalized path toward job readiness. SkillBridge centralizes that — one platform to analyze where you stand and what to work on next.
+
+| Layer | Stack |
+|---|---|
+| Backend | Spring Boot 3.5.4, Java 21 |
+| Data | Spring Data JPA, MySQL |
+| Auth | Spring Security, JWT (jjwt) |
+| Document Processing | Apache PDFBox (resume/PDF parsing) |
+
+**Status**
+
+- ✅ **Implemented** — Spring Boot backend scaffolding, JWT-based authentication, JPA data layer, MySQL integration, PDF processing dependency wired in for resume handling
+- 🔧 **In Development** — Resume analysis logic, skill-gap detection endpoints
+- 📋 **Planned** — Personalized learning roadmap, mock interview module, career readiness scoring, Android client
+
+🔗 **Repository:** [github.com/Akillesh2006/SkillBridge](https://github.com/Akillesh2006/SkillBridge)
+
+<br>
+
+## Experience
+
+**Tiranex** — UI/UX Intern · *May 2026 – Jun 2026*
+**Google** — Android Developer Virtual Internship · *Oct 2025 – Dec 2025*
+**Alfido Tech** — Frontend Developer Intern · *May 2024 – Jun 2024*
+
+<br>
+
+## Problem Solving
+
+| Platform | Solved | Breakdown |
+|---|---|---|
+| **LeetCode** | 402 | Easy 206 · Medium 189 · Hard 7 |
+| **SkillRack** | 119 | C 83 · C++ 7 · Python 28 · Java 1 |
+
+<br>
+
+## GitHub Activity
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Akillesh2006&show_icons=true&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=38BDAE&text_color=C9D1D9&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akillesh2006&layout=compact&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=C9D1D9" height="165"/>
+</div>
+
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=Akillesh2006&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=38BDAE&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
+</div>
+
+<br>
+
+## Currently Learning
+
+`System Design` · `Kotlin for Android` · `AI/LLM application integration` · `Advanced DSA`
+
+<br>
+
+## Contact
 
 <div align="center">
 
-### 🤝 Let's Connect & Build Something Amazing!
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akillesh2006)
 
-*"Every line of code is a step forward. Keep building, keep learning."* 💡
-
-<a href="https://linkedin.com/in/akilleshkp">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:akilleshkp.cse2024@citchennai.net">
-  <img src="https://img.shields.io/badge/Gmail-Mail%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/Akillesh2006">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+*LinkedIn not linked — send your profile URL and I'll add it.*
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:BF91F3&height=90&section=footer"/>
+</div>
