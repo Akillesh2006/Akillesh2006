@@ -19,8 +19,8 @@
     <line x1="16" y1="36" x2="170" y2="36" stroke="#21262D" stroke-width="1"/>
     <text x="16" y="58" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#C9D1D9">• Java 21</text>
     <text x="16" y="76" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#C9D1D9">• Kotlin</text>
-    <text x="16" y="94" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#C9D1D9">• Python</text>
-    <text x="16" y="112" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#C9D1D9">• JavaScript / C / C++</text>
+    <text x="16" y="94" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#C9D1D9">• TypeScript / JavaScript</text>
+    <text x="16" y="112" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#C9D1D9">• Python / C / C++</text>
   </g>
 
   <!-- Column 2: Backend & DB -->
@@ -34,15 +34,15 @@
     <text x="16" y="112" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#C9D1D9">• MySQL / PostgreSQL</text>
   </g>
 
-  <!-- Column 3: Mobile & Systems -->
+  <!-- Column 3: Frontend & AI -->
   <g transform="translate(440, 20)">
     <rect x="0" y="0" width="186" height="145" rx="8" fill="#161B22" stroke="#30363D" stroke-width="1"/>
-    <text x="16" y="28" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="700" fill="#38BDAE">MOBILE &amp; SYSTEMS</text>
+    <text x="16" y="28" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="700" fill="#38BDAE">FRONTEND &amp; AI</text>
     <line x1="16" y1="36" x2="170" y2="36" stroke="#21262D" stroke-width="1"/>
-    <text x="16" y="58" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#C9D1D9">• Android SDK / Kotlin</text>
-    <text x="16" y="76" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#C9D1D9">• RESTful API Design</text>
-    <text x="16" y="94" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#C9D1D9">• Apache PDFBox Engine</text>
-    <text x="16" y="112" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#C9D1D9">• React / Node.js</text>
+    <text x="16" y="58" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#C9D1D9">• Next.js 16 / React 19</text>
+    <text x="16" y="76" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#C9D1D9">• Google Gemini API</text>
+    <text x="16" y="94" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#C9D1D9">• Tailwind CSS / Framer</text>
+    <text x="16" y="112" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#C9D1D9">• Android SDK / Kotlin</text>
   </g>
 
   <!-- Column 4: Dev Tools & Ecosystem -->
@@ -50,9 +50,9 @@
     <rect x="0" y="0" width="182" height="145" rx="8" fill="#161B22" stroke="#30363D" stroke-width="1"/>
     <text x="16" y="28" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="700" fill="#C9D1D9">TOOLS &amp; ECOSYSTEM</text>
     <line x1="16" y1="36" x2="166" y2="36" stroke="#21262D" stroke-width="1"/>
-    <text x="16" y="58" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#8B949E">• Git / GitHub Workflow</text>
-    <text x="16" y="76" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#8B949E">• Android Studio / Gradle</text>
+    <text x="16" y="58" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#8B949E">• Apache PDFBox Engine</text>
+    <text x="16" y="76" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#8B949E">• Git / GitHub Workflow</text>
     <text x="16" y="94" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#8B949E">• Postman API Testing</text>
-    <text x="16" y="112" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#8B949E">• Maven Build Automation</text>
+    <text x="16" y="112" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#8B949E">• Maven / npm / Gradle</text>
   </g>
 </svg>

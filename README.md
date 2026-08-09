@@ -14,9 +14,9 @@
 
 ## 👤 Executive Overview
 
-I am a Computer Science & Engineering undergraduate at **Chennai Institute of Technology** (2024–2028, CGPA **8.04/10**), specializing in robust Spring Boot backends, native Android application development, and AI-assisted software systems. 
+I am a Computer Science & Engineering undergraduate at **Chennai Institute of Technology** (2024–2028, CGPA **8.04/10**), specializing in robust Spring Boot backends, native Android application development, Next.js full-stack systems, and AI-assisted educational platforms.
 
-Through engineering internships at **Google**, **Tiranex**, and **Alfido Tech**, I focus on building scalable REST services, parsing complex document pipelines, and refining user-centric application workflows.
+Through engineering internships at **Google**, **Tiranex**, and **Alfido Tech**, I focus on building scalable REST services, interactive AI mentorship tools, and refining user-centric application workflows.
 
 ```java
 public class Engineer {
@@ -24,7 +24,12 @@ public class Engineer {
     public final String degree = "B.E. Computer Science & Engineering";
     public final String institution = "Chennai Institute of Technology (2024–2028)";
     public final double cgpa = 8.04;
-    public final String[] coreFocus = {"Spring Boot Backends", "Android Development", "AI Integration", "System Architecture"};
+    public final String[] coreFocus = {
+        "Spring Boot & Java 21 Backends",
+        "Android / Kotlin Development",
+        "Next.js & React AI Apps",
+        "System Architecture & DSA"
+    };
 }
 ```
 
@@ -40,15 +45,18 @@ public class Engineer {
 
 | Group | Core Technologies |
 |---|---|
-| **Languages** | `Java 21` `Kotlin` `Python` `JavaScript` `C` `C++` |
+| **Languages** | `Java 21` `Kotlin` `TypeScript` `Python` `JavaScript` `C` `C++` |
 | **Backend & APIs** | `Spring Boot 3.5.4` `Spring Security` `JWT (jjwt)` `Spring Data JPA` `Node.js` `Express` |
+| **Frontend & Web** | `Next.js 16 (App Router)` `React 19` `Tailwind CSS v4` `Framer Motion` `Radix UI` |
 | **Databases** | `MySQL` `PostgreSQL` |
-| **Mobile & Web** | `Android SDK` `Kotlin Jetpack` `React` `Tailwind CSS` |
-| **Libraries & Tools** | `Apache PDFBox 3.0.3` `Git` `Postman` `Android Studio` `Maven` `Gradle` |
+| **Mobile & AI** | `Android SDK` `Google Gemini API` `Apache PDFBox 3.0.3` `react-force-graph-2d` |
+| **Tools & Workflow** | `Git` `Postman` `Android Studio` `Maven` `npm` `Gradle` |
 
 <br>
 
-## 🚀 Flagship Project — [SkillBridge](https://github.com/Akillesh2006/SkillBridge)
+## 🚀 Featured Projects
+
+### 1. [SkillBridge](https://github.com/Akillesh2006/SkillBridge) — AI Career Guidance Platform
 
 > **AI-powered career guidance and interview-preparation platform tailored for engineering students.**
 
@@ -71,28 +79,47 @@ SkillBridge bridges the gap between undergraduate coursework and industry expect
 └──────────────┘  └──────────────┘
 ```
 
-### Verified Architecture & Stack
+#### Verified Architecture & Stack
 - **Framework & Runtime**: Spring Boot 3.5.4 running on Java 21
 - **Persistence Layer**: Spring Data JPA with MySQL relational store
 - **Security**: Spring Security with stateless JWT (`io.jsonwebtoken:jjwt:0.12.7`) authentication filter
 - **Document Processing**: Apache PDFBox (`org.apache.pdfbox:pdfbox:3.0.3`) for resume PDF parsing and raw text extraction
 
-### Implementation Roadmap
-
-- 🟢 **Implemented (Verified in Code)**
-  - RESTful backend service architecture & controller scaffolding (`AuthController`, `ProfileController`, `ResumeController`, `UserController`)
-  - Stateless JWT authentication & security context filtering (`JwtAuthenticationFilter`, `JwtService`)
-  - Database schema & entity models for users and uploaded resumes (`User`, `Resume`)
-  - Multipart file handling & PDF text extraction engine via Apache PDFBox (`PdfService`, `ResumeService`)
-- 🟡 **In Development**
-  - Resume keyword parsing & automated skill extraction algorithms
-- 🔵 **Planned Roadmap**
-  - AI-driven skill gap detection & personalized learning path generator
-  - Automated mock interview evaluator
-  - Student career readiness scoring system
-  - Native Android application client
+#### Implementation Roadmap
+- 🟢 **Implemented (Verified in Code)**: RESTful backend service architecture & controller scaffolding (`AuthController`, `ProfileController`, `ResumeController`, `UserController`), stateless JWT authentication, JPA entities & MySQL schema, PDF text extraction engine.
+- 🟡 **In Development**: Resume keyword parsing & automated skill extraction algorithms.
+- 🔵 **Planned**: AI learning roadmap generator, mock interview evaluator, career readiness scoring, native Android app.
 
 🔗 **Repository:** [github.com/Akillesh2006/SkillBridge](https://github.com/Akillesh2006/SkillBridge)
+
+---
+
+### 2. [Adaptive Community](https://github.com/Akillesh2006/Adaptive-Community) — Rural Learning Platform
+
+> **AI-powered adaptive learning and mentorship platform engineered for rural communities.**
+
+Adaptive Community delivers intelligent, personalized guidance to students in rural regions by leveraging Google Generative AI alongside interactive 2D skill graph visualizers.
+
+```
+[ User Interface (Next.js 16 + React 19) ] ──► [ Google Gemini API (@google/generative-ai) ]
+                     │                                         │
+                     ▼                                         ▼
+   [ 2D Skill Graph Visualization ] ◄───────────── [ Adaptive Learning Path ]
+      (react-force-graph-2d)
+```
+
+#### Architecture & Stack
+- **Framework & Web**: Next.js 16 (App Router), React 19, TypeScript
+- **AI Mentorship Engine**: Google Gemini API (`@google/generative-ai`)
+- **Data Visualization**: Dynamic 2D graph node graphs via `react-force-graph-2d`
+- **UI & Animations**: Tailwind CSS v4, Framer Motion, Radix UI primitives, Lucide React
+
+#### Key Features
+- 🤖 **AI-Powered Mentorship**: Contextual, adaptive guidance tuned for learners in rural communities.
+- 🕸️ **Interactive Skill Graphs**: Visualized knowledge maps showing progression and prerequisites in real time.
+- ⚡ **Modern Responsive UX**: Optimized for low-bandwidth, clean accessibility with Radix primitives and Framer Motion transitions.
+
+🔗 **Repository:** [github.com/Akillesh2006/Adaptive-Community](https://github.com/Akillesh2006/Adaptive-Community)
 
 <br>
 
@@ -139,7 +166,7 @@ SkillBridge bridges the gap between undergraduate coursework and industry expect
 
 - 🏗️ **Distributed Systems & System Design**: Scalable API patterns and database partitioning
 - 📱 **Modern Android Development**: Jetpack Compose state management and clean architecture
-- 🤖 **AI & LLM Integration**: Incorporating intelligence layers into Spring Boot backends
+- 🤖 **AI & LLM Integration**: Incorporating Gemini & LLM intelligence layers into production applications
 - ⚡ **Advanced DSA**: Graph algorithms, dynamic programming, and space/time optimization
 
 <br>
