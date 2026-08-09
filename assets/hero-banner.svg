@@ -84,11 +84,11 @@
     <text x="14" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="800" fill="#BF91F3">119 <tspan font-size="11" font-weight="500" fill="#8B949E">(C / Py / C++ / J)</tspan></text>
   </g>
 
-  <!-- Tile 3: Education & CGPA -->
+  <!-- Tile 3: Education (CGPA removed) -->
   <g transform="translate(420, 142)">
     <rect x="0" y="0" width="180" height="48" rx="8" fill="#0D1117" stroke="#21262D" stroke-width="1"/>
     <text x="14" y="20" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600" fill="#8B949E">B.E. CSE @ CIT CHENNAI</text>
-    <text x="14" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="800" fill="#70A5FD">CGPA 8.04 <tspan font-size="11" font-weight="500" fill="#8B949E">('24–'28)</tspan></text>
+    <text x="14" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="800" fill="#70A5FD">Batch 2024–2028</text>
   </g>
 
   <!-- Tile 4: Internships -->

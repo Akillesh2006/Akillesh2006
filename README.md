@@ -2,6 +2,12 @@
 
   <img src="assets/hero-banner.svg" alt="Akillesh K P - Developer Command Center" width="100%" />
 
+  <br><br>
+
+  [![Profile Views](https://komarev.com/ghpvc/?username=Akillesh2006&label=PROFILE%20VIEWS&color=70A5FD&style=for-the-badge)](https://github.com/Akillesh2006)
+  [![GitHub Followers](https://img.shields.io/github/followers/Akillesh2006?label=FOLLOWERS&style=for-the-badge&color=BF91F3)](https://github.com/Akillesh2006?tab=followers)
+  [![LeetCode Solved](https://img.shields.io/badge/LEETCODE-402%20SOLVED-38BDAE?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Akillesh2006/)
+
 </div>
 
 <br>
@@ -9,7 +15,7 @@
 ```bash
 ┌──(akillesh⚡kernel)-[~]
 └─$ akillesh --inspect-system
-[IDENTITY]   Akillesh K P · Computer Science & Engineering @ CIT (2024–2028 | CGPA 8.04/10)
+[IDENTITY]   Akillesh K P · Computer Science & Engineering @ CIT (2024–2028)
 [SPECIALTY]  Backend Systems Architecture · Native Android · Full-Stack AI Integration
 [PLATFORMS]  SkillBridge (Spring Boot) | AI DevOps Monitor (Node/Mongo) | Adaptive Community (Next.js)
 [BENCHMARK]  LeetCode: 402 Solved (206E / 189M / 7H) | SkillRack: 119 Solved | 3 Internships
@@ -19,7 +25,7 @@
 
 ## 👤 Executive Overview
 
-I am a Computer Science & Engineering student at **Chennai Institute of Technology** (2024–2028, CGPA **8.04/10**), designing backend microservices, Android mobile applications, and AI-driven telemetry systems.
+I am a Computer Science & Engineering student at **Chennai Institute of Technology** (2024–2028), designing backend microservices, Android mobile applications, and AI-driven telemetry systems.
 
 Through software engineering internships at **Google**, **Tiranex**, and **Alfido Tech**, I focus on building enterprise-grade REST APIs, stateless security layers, automated document processing engines, and intelligent AI mentorship tools.
 
@@ -28,7 +34,6 @@ public class Engineer {
     public final String name = "Akillesh K P";
     public final String degree = "B.E. Computer Science & Engineering";
     public final String institution = "Chennai Institute of Technology (2024–2028)";
-    public final double cgpa = 8.04;
     public final String[] coreFocus = {
         "Spring Boot 3.5 & Java 21 Microservices",
         "Node.js & Express DevOps Telemetry",
@@ -160,18 +165,18 @@ Adaptive Community delivers intelligent personalized learning paths to rural lea
 
 <br>
 
-## 📊 Analytics & Activity
+## 🔥 Viewers & Contribution Streak
 
 <div align="center">
-  <img src="assets/github-stats.svg" height="185" alt="GitHub & Problem Solving Stats" />
-  &nbsp;&nbsp;
-  <img src="assets/languages-animated.svg" height="185" alt="Core Stack Breakdown" />
+  <img src="https://streak-stats.demolab.com?user=Akillesh2006&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=38BDAE&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub Contribution Streak" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Akillesh2006&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=38BDAE&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak" />
+  <img src="assets/github-stats.svg" height="185" alt="GitHub & Problem Solving Stats" />
+  &nbsp;&nbsp;
+  <img src="assets/languages-animated.svg" height="185" alt="Core Stack Breakdown" />
 </div>
 
 <br>
