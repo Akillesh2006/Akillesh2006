@@ -1,38 +1,27 @@
 <div align="center">
 
-  <img src="assets/hero-banner.svg" alt="Akillesh K P - Futuristic Developer HUD" width="100%" />
-
-  <br><br>
-
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=1200&color=70A5FD&center=true&vCenter=true&width=600&lines=Spring+Boot+3.5+%2B+Java+21;Android+%2F+Kotlin+Development;Next.js+16+%2B+Gemini+AI;Node.js+%2B+DevOps+Telemetry;Chennai+Institute+of+Technology" alt="Typing SVG" />
-
-  <br><br>
-
-  [![Profile Views](https://komarev.com/ghpvc/?username=Akillesh2006&label=Profile%20Views&color=70A5FD&style=flat-square)](https://github.com/Akillesh2006)
-  [![GitHub Followers](https://img.shields.io/github/followers/Akillesh2006?label=Followers&style=flat-square&color=70A5FD)](https://github.com/Akillesh2006?tab=followers)
-  [![LeetCode Solved](https://img.shields.io/badge/LeetCode-402%20Solved-38BDAE?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Akillesh2006/)
-  [![SkillRack Solved](https://img.shields.io/badge/SkillRack-119%20Solved-BF91F3?style=flat-square)](https://github.com/Akillesh2006)
+  <img src="assets/hero-banner.svg" alt="Akillesh K P - Developer Command Center" width="100%" />
 
 </div>
 
 <br>
 
 ```bash
-┌──(akillesh⚡dev-terminal)-[~]
-└─$ akillesh --status
-[SYSTEM]   Akillesh K P | Software Engineer (B.E. CSE @ CIT 2024–2028 | CGPA: 8.04/10)
-[STACK]    Java 21 · Spring Boot 3.5 · Android/Kotlin · Next.js 16 · Node.js/Express · MongoDB
-[INTERNS]  Google (Android SDK) · Tiranex (UI/UX) · Alfido Tech (Frontend)
-[METRICS]  LeetCode: 402 Solved | SkillRack: 119 Solved | 3 Flagship Platforms Built
+┌──(akillesh⚡kernel)-[~]
+└─$ akillesh --inspect-system
+[IDENTITY]   Akillesh K P · Computer Science & Engineering @ CIT (2024–2028 | CGPA 8.04/10)
+[SPECIALTY]  Backend Systems Architecture · Native Android · Full-Stack AI Integration
+[PLATFORMS]  SkillBridge (Spring Boot) | AI DevOps Monitor (Node/Mongo) | Adaptive Community (Next.js)
+[BENCHMARK]  LeetCode: 402 Solved (206E / 189M / 7H) | SkillRack: 119 Solved | 3 Internships
 ```
 
 <br>
 
 ## 👤 Executive Overview
 
-I am a Computer Science & Engineering undergraduate at **Chennai Institute of Technology** (2024–2028, CGPA **8.04/10**), engineering high-performance Spring Boot backends, native Android applications, Next.js full-stack solutions, and multi-tenant telemetry platforms.
+I am a Computer Science & Engineering student at **Chennai Institute of Technology** (2024–2028, CGPA **8.04/10**), designing backend microservices, Android mobile applications, and AI-driven telemetry systems.
 
-Through software engineering internships at **Google**, **Tiranex**, and **Alfido Tech**, I specialize in designing robust REST architectures, fine-grained RBAC security models, automated document processing engines, and intelligent AI mentorship tools.
+Through software engineering internships at **Google**, **Tiranex**, and **Alfido Tech**, I focus on building enterprise-grade REST APIs, stateless security layers, automated document processing engines, and intelligent AI mentorship tools.
 
 ```java
 public class Engineer {
@@ -41,9 +30,9 @@ public class Engineer {
     public final String institution = "Chennai Institute of Technology (2024–2028)";
     public final double cgpa = 8.04;
     public final String[] coreFocus = {
-        "Spring Boot 3.5 & Java 21 Backends",
+        "Spring Boot 3.5 & Java 21 Microservices",
         "Node.js & Express DevOps Telemetry",
-        "Android SDK & Kotlin Apps",
+        "Android SDK & Kotlin Mobile Engineering",
         "Next.js 16 & Google Gemini AI Platforms"
     };
 }
@@ -51,96 +40,76 @@ public class Engineer {
 
 <br>
 
-## 🛠️ Technical Ecosystem
+## 🛠️ Technical Ecosystem & Stack Matrix
 
 <div align="center">
-  <img src="assets/skills-overview.svg" alt="Tech Ecosystem" width="100%" />
+  <img src="assets/skills-overview.svg" alt="Tech Ecosystem Matrix" width="100%" />
 </div>
 
 <br>
 
-| Group | Core Technologies |
+| Domain | Verified Stack & Tools |
 |---|---|
 | **Languages** | `Java 21` `Kotlin` `TypeScript` `Python` `JavaScript (ES6+)` `C` `C++` |
 | **Backend & Security** | `Spring Boot 3.5.4` `Node.js` `Express.js` `Spring Security` `JWT (jjwt)` `Multi-Tenant RBAC` |
-| **AI & Web Systems** | `Next.js 16 (App Router)` `React 19` `Google Gemini API` `Apache PDFBox 3.0.3` `Tailwind v4` |
+| **AI & Web Systems** | `Next.js 16 (App Router)` `React 19` `Google Gemini AI API` `Apache PDFBox 3.0.3` `Tailwind v4` |
 | **Databases & Data** | `MySQL` `MongoDB (Mongoose)` `PostgreSQL` `Spring Data JPA` `Audit Logging` |
-| **Mobile & Graphics** | `Android SDK` `Kotlin Jetpack` `Framer Motion` `react-force-graph-2d` |
-| **Tools & Infrastructure** | `Git` `Postman` `Android Studio` `Maven` `npm` `Gradle` `Jest` |
+| **Mobile & Visuals** | `Android SDK` `Kotlin Jetpack` `Framer Motion` `react-force-graph-2d` |
+| **Tools & Testing** | `Git` `Postman` `Android Studio` `Maven` `npm` `Gradle` `Jest` |
 
 <br>
 
-## 🚀 Featured Flagship Projects
+## 🚀 Flagship Architecture & Platforms
 
 ### 1. [SkillBridge](https://github.com/Akillesh2006/SkillBridge) — AI Career Guidance Platform
 
-> **AI-powered career guidance and interview-preparation platform tailored for engineering students.**
+> **AI-powered career guidance and placement preparation platform tailored for CSE students.**
 
-SkillBridge bridges the gap between undergraduate coursework and industry expectations by converting raw resumes into actionable learning roadmaps and targeted skill recommendations.
+SkillBridge transforms raw student resumes into structured skill gap analyses and targeted learning roadmaps.
 
-```
-       [ Client Request ]
-               │
-               ▼
-┌──────────────────────────────┐
-│     Spring Boot 3.5.4 REST    │
-│  (Java 21 + Spring Security) │
-└──────────────┬───────────────┘
-               │
-      ┌────────┴────────┐
-      ▼                 ▼
-┌──────────────┐  ┌──────────────┐
-│ Apache PDFBox│  │ Spring JPA / │
-│ Resume Parser│  │  MySQL DB    │
-└──────────────┘  └──────────────┘
-```
+<div align="center">
+  <img src="assets/arch-skillbridge.svg" alt="SkillBridge System Architecture" width="100%" />
+</div>
 
-#### Verified Architecture & Stack
-- **Framework & Runtime**: Spring Boot 3.5.4 running on Java 21
-- **Persistence Layer**: Spring Data JPA with MySQL relational store
-- **Security**: Spring Security with stateless JWT (`io.jsonwebtoken:jjwt:0.12.7`) authentication filter
-- **Document Processing**: Apache PDFBox (`org.apache.pdfbox:pdfbox:3.0.3`) for resume PDF parsing and text extraction
+<br>
 
-#### Implementation Roadmap
-- 🟢 **Implemented (Verified in Code)**: RESTful backend service architecture & controller scaffolding (`AuthController`, `ProfileController`, `ResumeController`, `UserController`), stateless JWT authentication, JPA entities & MySQL schema, PDF text extraction engine.
-- 🟡 **In Development**: Resume keyword parsing & automated skill extraction algorithms.
+#### Verified System Architecture
+- **Framework & Runtime**: Spring Boot 3.5.4 on Java 21 (JDK 21)
+- **Data Persistence**: Spring Data JPA with MySQL relational store
+- **Security Context**: Spring Security with stateless JWT (`io.jsonwebtoken:jjwt:0.12.7`) filters
+- **Document Engine**: Apache PDFBox (`org.apache.pdfbox:pdfbox:3.0.3`) for resume PDF parsing
+
+#### Verified Implementation Status
+- 🟢 **Implemented (Verified in Code)**: REST controllers (`AuthController`, `ProfileController`, `ResumeController`, `UserController`), stateless JWT auth filters, JPA entities (`User`, `Resume`), MySQL integration, Apache PDFBox text extraction.
+- 🟡 **In Development**: Resume keyword parsing & skill extraction algorithms.
 - 🔵 **Planned**: AI learning roadmap generator, mock interview evaluator, career readiness scoring, native Android client app.
 
 🔗 **Repository:** [github.com/Akillesh2006/SkillBridge](https://github.com/Akillesh2006/SkillBridge)
 
 ---
 
-### 2. [AI-Powered DevOps Monitoring Platform](https://github.com/Akillesh2006/AI-Powered-DevOps-Monitoring-Platform) — Multi-Tenant Telemetry & Audit Engine
+### 2. [AI DevOps Monitoring Platform](https://github.com/Akillesh2006/AI-Powered-DevOps-Monitoring-Platform) — Telemetry & Audit Engine
 
-> **Enterprise multi-tenant DevOps monitoring backend featuring granular RBAC permissions and immutable audit logs.**
+> **Enterprise multi-tenant DevOps monitoring backend featuring granular RBAC permissions and immutable audit trails.**
 
-An enterprise-grade telemetry and observability platform designed to handle multi-organization scoping, role-based access control, and complete data auditability.
+An enterprise telemetry platform built to enforce tenant isolation, fine-grained role permissions, and system auditability.
 
-```
-[ Client Requests ] ──► [ Express REST API Gate ]
-                             │
-            ┌────────────────┴────────────────┐
-            ▼                                 ▼
-┌─────────────────────────┐       ┌─────────────────────────┐
-│ Multi-Tenant RBAC Auth  │       │  Audit Logging Service  │
-│ (JWT + Refresh Tokens)  │       │  (Immutable Audit Log)  │
-└───────────┬─────────────┘       └───────────┬─────────────┘
-            │                                 │
-            └────────────────┬────────────────┘
-                             ▼
-              [ MongoDB / Mongoose Store ]
-```
+<div align="center">
+  <img src="assets/arch-devops.svg" alt="DevOps Platform System Architecture" width="100%" />
+</div>
 
-#### Architecture & Stack
-- **Runtime & Framework**: Node.js, Express.js
-- **Database & Modeling**: MongoDB, Mongoose ORM with custom scoped soft-delete queries
-- **Security & RBAC**: JWT Access Tokens, Refresh Token Rotation, Multi-tenant Organization Scoping, Bcrypt password hashing
-- **Validation & Quality**: Joi schema validation, Jest integration & unit test suite
+<br>
+
+#### Architecture & Security Stack
+- **Runtime & Gateway**: Node.js, Express.js REST API with rate-limiting & Joi schema validation
+- **Persistence & Scoping**: MongoDB, Mongoose ORM with custom scoped soft-delete queries
+- **Security & RBAC**: Multi-tenant organization scoping, JWT Access & Refresh Token Rotation, Bcrypt password hashing
+- **Testing**: Complete Jest integration & unit test suite
 
 #### Key Capabilities
-- 🏢 **Multi-Tenant Scoping**: Isolated organization data queries preventing cross-tenant data leaks.
-- 🔒 **Fine-Grained RBAC**: Strict permission matrix controlling administrative, operational, and viewer actions.
-- 📜 **Immutable Audit Trails**: Centralized audit logger capturing critical lifecycle events and configuration changes.
+- 🏢 **Multi-Tenant Scoping**: Isolated organization queries ensuring strict tenant separation.
+- 🔒 **Fine-Grained RBAC**: Permission matrix enforcing administrative, operational, and reader access controls.
+- 📜 **Immutable Audit Logs**: Centralized logging engine tracking all user lifecycle events and security actions.
 
 🔗 **Repository:** [github.com/Akillesh2006/AI-Powered-DevOps-Monitoring-Platform](https://github.com/Akillesh2006/AI-Powered-DevOps-Monitoring-Platform)
 
@@ -150,26 +119,19 @@ An enterprise-grade telemetry and observability platform designed to handle mult
 
 > **AI-powered adaptive learning and mentorship platform engineered for rural communities.**
 
-Adaptive Community delivers intelligent, personalized guidance to students in rural regions by leveraging Google Generative AI alongside interactive 2D skill graph visualizers.
+Adaptive Community delivers intelligent personalized learning paths to rural learners using Google Generative AI and interactive 2D skill graph visualizers.
 
-```
-[ User Interface (Next.js 16 + React 19) ] ──► [ Google Gemini API (@google/generative-ai) ]
-                     │                                         │
-                     ▼                                         ▼
-   [ 2D Skill Graph Visualization ] ◄───────────── [ Adaptive Learning Path ]
-      (react-force-graph-2d)
-```
+<div align="center">
+  <img src="assets/arch-adaptive.svg" alt="Adaptive Community Architecture" width="100%" />
+</div>
 
-#### Architecture & Stack
+<br>
+
+#### System Architecture & Stack
 - **Framework & Web**: Next.js 16 (App Router), React 19, TypeScript
 - **AI Mentorship Engine**: Google Gemini API (`@google/generative-ai`)
-- **Data Visualization**: Dynamic 2D node graphs via `react-force-graph-2d`
-- **UI & Animations**: Tailwind CSS v4, Framer Motion, Radix UI primitives, Lucide React
-
-#### Key Features
-- 🤖 **AI-Powered Mentorship**: Contextual guidance tuned for rural community learning paths.
-- 🕸️ **Interactive Skill Graphs**: Visualized knowledge maps showing progression and prerequisites in real time.
-- ⚡ **Modern Responsive UX**: Optimized for low-bandwidth, clean accessibility with Radix primitives and Framer Motion.
+- **Interactive Graphing**: Dynamic 2D graph node visualizer via `react-force-graph-2d`
+- **UI Architecture**: Tailwind CSS v4, Framer Motion, Radix UI primitives, Lucide React
 
 🔗 **Repository:** [github.com/Akillesh2006/Adaptive-Community](https://github.com/Akillesh2006/Adaptive-Community)
 
@@ -189,7 +151,7 @@ Adaptive Community delivers intelligent, personalized guidance to students in ru
 
 <div align="center">
 
-| Platform | Total Solved | Domain / Topic Breakdown |
+| Platform | Total Solved | Category Breakdown |
 |:---:|:---:|---|
 | <img src="https://simpleicons.org/pdf/leetcode.svg" width="16" height="16" /> **LeetCode** | **402** | **Easy:** 206 &nbsp;·&nbsp; **Medium:** 189 &nbsp;·&nbsp; **Hard:** 7 |
 | 🎯 **SkillRack** | **119** | **C:** 83 &nbsp;·&nbsp; **Python:** 28 &nbsp;·&nbsp; **C++:** 7 &nbsp;·&nbsp; **Java:** 1 |
@@ -198,7 +160,7 @@ Adaptive Community delivers intelligent, personalized guidance to students in ru
 
 <br>
 
-## 📊 GitHub Analytics & Activity
+## 📊 Analytics & Activity
 
 <div align="center">
   <img src="assets/github-stats.svg" height="185" alt="GitHub & Problem Solving Stats" />
@@ -214,12 +176,12 @@ Adaptive Community delivers intelligent, personalized guidance to students in ru
 
 <br>
 
-## 🎯 Current Learning Focus
+## 🎯 Active Learning Focus
 
-- 🏗️ **Distributed Systems & System Design**: Scalable API patterns and database partitioning
-- 📱 **Modern Android Development**: Jetpack Compose state management and clean architecture
-- 🤖 **AI & LLM Integration**: Incorporating Gemini & LLM intelligence layers into production applications
-- ⚡ **Advanced DSA**: Graph algorithms, dynamic programming, and space/time optimization
+- 🏗️ **Distributed Systems & System Architecture**: Microservice scalability & database sharding
+- 📱 **Modern Mobile Architecture**: Jetpack Compose state management & Kotlin Multiplatform
+- 🤖 **AI System Integration**: Embedding Gemini & LLM intelligence into backend production flows
+- ⚡ **Advanced DSA**: Dynamic programming, graph algorithms, and space/time optimization
 
 <br>
 

@@ -1,0 +1,58 @@
+<svg width="800" height="130" viewBox="0 0 800 130" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="boxGrad3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#161B22"/>
+      <stop offset="100%" stop-color="#0D1117"/>
+    </linearGradient>
+    <linearGradient id="lineGrad3" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDAE"/>
+      <stop offset="100%" stop-color="#F7D070"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="2" y="2" width="796" height="126" rx="10" fill="#0D1117" stroke="#21262D" stroke-width="1.5"/>
+
+  <!-- Step 1: Next.js 16 UI -->
+  <g transform="translate(20, 25)">
+    <rect x="0" y="0" width="150" height="80" rx="8" fill="url(#boxGrad3)" stroke="#30363D" stroke-width="1"/>
+    <text x="16" y="28" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="700" fill="#38BDAE">FRONTEND</text>
+    <text x="16" y="48" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="700" fill="#C9D1D9">Next.js 16 / React 19</text>
+    <text x="16" y="65" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#8B949E">Tailwind v4 &amp; Framer</text>
+  </g>
+
+  <!-- Arrow 1 -->
+  <path d="M 178 65 L 206 65" stroke="url(#lineGrad3)" stroke-width="2" stroke-dasharray="4 2"/>
+  <polygon points="206,61 214,65 206,69" fill="#F7D070"/>
+
+  <!-- Step 2: Google Gemini AI Engine -->
+  <g transform="translate(225, 25)">
+    <rect x="0" y="0" width="165" height="80" rx="8" fill="url(#boxGrad3)" stroke="#30363D" stroke-width="1"/>
+    <text x="16" y="28" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="700" fill="#F7D070">AI ENGINE</text>
+    <text x="16" y="48" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="700" fill="#C9D1D9">Google Gemini AI</text>
+    <text x="16" y="65" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#8B949E">Adaptive AI Mentorship</text>
+  </g>
+
+  <!-- Arrow 2 -->
+  <path d="M 398 65 L 426 65" stroke="url(#lineGrad3)" stroke-width="2" stroke-dasharray="4 2"/>
+  <polygon points="426,61 434,65 426,69" fill="#F7D070"/>
+
+  <!-- Step 3: Skill Graph Visualizer -->
+  <g transform="translate(445, 25)">
+    <rect x="0" y="0" width="165" height="80" rx="8" fill="url(#boxGrad3)" stroke="#30363D" stroke-width="1"/>
+    <text x="16" y="28" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="700" fill="#70A5FD">VISUALIZER</text>
+    <text x="16" y="48" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="700" fill="#C9D1D9">Skill Graph 2D</text>
+    <text x="16" y="65" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#8B949E">react-force-graph-2d</text>
+  </g>
+
+  <!-- Arrow 3 -->
+  <path d="M 618 65 L 646 65" stroke="url(#lineGrad3)" stroke-width="2" stroke-dasharray="4 2"/>
+  <polygon points="646,61 654,65 646,69" fill="#F7D070"/>
+
+  <!-- Step 4: Rural Learner Output -->
+  <g transform="translate(660, 25)">
+    <rect x="0" y="0" width="120" height="80" rx="8" fill="url(#boxGrad3)" stroke="#30363D" stroke-width="1"/>
+    <text x="14" y="28" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="700" fill="#BF91F3">IMPACT</text>
+    <text x="14" y="48" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="700" fill="#C9D1D9">Rural Learner</text>
+    <text x="14" y="65" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#8B949E">Guided Roadmap</text>
+  </g>
+</svg>
