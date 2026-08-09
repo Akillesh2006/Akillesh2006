@@ -4,6 +4,10 @@
 
   <br><br>
 
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=1200&color=70A5FD&center=true&vCenter=true&width=600&lines=Spring+Boot+%2B+Java+21;Android+%2F+Kotlin;Next.js+%2B+Gemini+AI;Chennai+Institute+of+Technology" alt="Typing SVG" />
+
+  <br><br>
+
   [![Profile Views](https://komarev.com/ghpvc/?username=Akillesh2006&label=Profile%20Views&color=70A5FD&style=flat-square)](https://github.com/Akillesh2006)
   [![GitHub Followers](https://img.shields.io/github/followers/Akillesh2006?label=Followers&style=flat-square&color=70A5FD)](https://github.com/Akillesh2006?tab=followers)
   [![LeetCode Solved](https://img.shields.io/badge/LeetCode-402%20Solved-38BDAE?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Akillesh2006/)
@@ -149,9 +153,9 @@ Adaptive Community delivers intelligent, personalized guidance to students in ru
 ## 📊 GitHub Analytics & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akillesh2006&show_icons=true&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=38BDAE&text_color=C9D1D9" height="160" alt="GitHub Stats" />
+  <img src="assets/github-stats.svg" height="185" alt="GitHub & Problem Solving Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akillesh2006&layout=compact&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=C9D1D9" height="160" alt="Top Languages" />
+  <img src="assets/languages-animated.svg" height="185" alt="Core Stack Breakdown" />
 </div>
 
 <br>
