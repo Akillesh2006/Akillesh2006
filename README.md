@@ -1,39 +1,39 @@
 <div align="center">
 
-<!-- HEADER BANNER: SYSTEM TELEMETRY -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=050505&height=180&section=header&text=AKILLESH%20K%20P&fontSize=42&fontColor=F0F6FC&fontAlignY=38&desc=Full-Stack%20Systems%20%E2%80%A2%20Event-Driven%20Architectures%20%E2%80%A2%20Applied%20GenAI&descFontSize=15&descColor=3B9EFF&descAlignY=64&stroke=1F242C&strokeWidth=1" width="100%" alt="Akillesh K P - Systems & AI Engineering" />
+<!-- HEADER: SYSTEM IDENTITY & TELEMETRY -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=050505&height=180&section=header&text=AKILLESH%20K%20P&fontSize=42&fontColor=F0F6FC&fontAlignY=38&desc=Distributed%20Backends%20%E2%80%A2%20Real-Time%20Telemetry%20%E2%80%A2%20Applied%20GenAI&descFontSize=15&descColor=3B9EFF&descAlignY=64&stroke=1F242C&strokeWidth=1" width="100%" alt="Akillesh K P - Systems & AI Engineering" />
 
 <br/>
 
-[![Status](https://img.shields.io/badge/STATUS-SYSTEMS_ACTIVE-10B981?style=flat-square&labelColor=050505&logo=statuspage&logoColor=10B981)](#)
-[![Degree](https://img.shields.io/badge/ACADEMIC-B.E._CSE_%7C_CIT_CHENGALPET-8B5CF6?style=flat-square&labelColor=050505&logo=google-scholar&logoColor=8B5CF6)](https://www.citchennai.edu.in)
-[![Timeline](https://img.shields.io/badge/TIMELINE-2024_--_2028-3B9EFF?style=flat-square&labelColor=050505&logo=target&logoColor=3B9EFF)](#)
-[![LeetCode](https://img.shields.io/badge/LEETCODE-402+_SOLVED-FFA116?style=flat-square&labelColor=050505&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/Akillesh2006/)
-[![LinkedIn](https://img.shields.io/badge/NETWORK-LINKEDIN-0A66C2?style=flat-square&labelColor=050505&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/akillesh-k-p-791722292)
+[![Status](https://img.shields.io/badge/SYSTEM-ONLINE-10B981?style=flat-square&labelColor=050505&logo=statuspage&logoColor=10B981)](#)
+[![Academic](https://img.shields.io/badge/CIT_CHENNAI-B.E._CSE_'28-8B5CF6?style=flat-square&labelColor=050505&logo=google-scholar&logoColor=8B5CF6)](https://www.citchennai.edu.in)
+[![LeetCode](https://img.shields.io/badge/LEETCODE-402_SOLVED-FFA116?style=flat-square&labelColor=050505&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/Akillesh2006/)
+[![SkillRack](https://img.shields.io/badge/SKILLRACK-119_SOLVED-3B9EFF?style=flat-square&labelColor=050505&logo=codeforces&logoColor=3B9EFF)](#)
+[![LinkedIn](https://img.shields.io/badge/NETWORK-CONNECT-0A66C2?style=flat-square&labelColor=050505&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/akillesh-k-p-791722292)
 
 </div>
 
 ---
 
-### `SYS.INIT` // Identity Thesis
+### `SYS.INIT` // Operator Profile
 
-> **Computer Science & Engineering undergraduate bridging reactive web infrastructure and high-throughput backend systems with production Generative AI pipelines.** Focused on event-driven architectures, low-latency telemetry, and native mobile client design.
+> **Computer Science & Engineering undergraduate architecting event-driven backends, low-latency telemetry pipelines, and applied Generative AI systems.** Grounded in deterministic backend foundations (Node.js, Spring Boot 3, Kotlin) with an active trajectory toward production distributed systems.
 
 ```bash
 akillesh@node-01:~$ cat /proc/identity
 ┌────────────────────┬────────────────────────────────────────────────────────┐
-│ OPERATOR           │ Akillesh K P (Akillesh2006)                            │
+│ OPERATOR           │ Akillesh K P (@Akillesh2006)                           │
 │ CORE DISCIPLINE    │ Full-Stack Architecture & Applied Generative AI        │
 │ CURRENT FOCUS      │ Real-Time Telemetry, WebSocket Pipelines & Gemini LLMs │
 │ INSTITUTION        │ Chennai Institute of Technology (B.E. CSE '28)         │
-│ PRODUCTION BASE    │ Node.js, Spring Boot 3, TypeScript, Kotlin, Python     │
-│ SYSTEM METRIC      │ 520+ Verifiable Algorithmic Problem Solutions          │
+│ STACK NUCLEUS      │ Node.js, Spring Boot 3, TypeScript, Kotlin, Python     │
+│ ALGORITHMIC BASE   │ 521+ Verified Problem Solutions (LeetCode + SkillRack) │
 └────────────────────┴────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-### `01.DNA` // System Layers & Capabilities
+### `01.DNA` // System Architecture & Capabilities
 
 ```
                   ┌──────────────────────────────────────────────┐
@@ -60,7 +60,7 @@ akillesh@node-01:~$ cat /proc/identity
     <td width="50%" valign="top">
       <h4>Applied AI & Machine Learning</h4>
       <ul>
-        <li><code>Google Generative AI / Gemini API</code> — Multimodal reasoning & structured outputs</li>
+        <li><code>Google Generative AI (Gemini API)</code> — Multimodal reasoning & structured outputs</li>
         <li><code>PyTorch & Diffusion Models</code> — CUDA compute & transformer fine-tuning</li>
         <li><code>Google GenKit</code> — Model orchestration & agentic flows</li>
         <li><code>LangChain / Hugging Face</code> — Embedding retrieval & prompt chains</li>
@@ -68,9 +68,9 @@ akillesh@node-01:~$ cat /proc/identity
       <h4>Backend & Distributed Telemetry</h4>
       <ul>
         <li><code>Node.js & Express.js</code> — Asynchronous event loop & RESTful APIs</li>
-        <li><code>Spring Boot 3</code> — Enterprise Java services, JPA & scalable micro-routing</li>
-        <li><code>Socket.io (WebSockets)</code> — Bi-directional, real-time message streaming</li>
-        <li><code>Security Layer</code> — JWT tokenization, Mongo-Sanitize, Helmet HTTP headers</li>
+        <li><code>Spring Boot 3</code> — Enterprise Java services, JPA & micro-routing</li>
+        <li><code>Socket.io (WebSockets)</code> — Bi-directional real-time message streaming</li>
+        <li><code>Security Layer</code> — JWT tokenization, Mongo-Sanitize, Helmet headers</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -79,7 +79,7 @@ akillesh@node-01:~$ cat /proc/identity
         <li><code>React 19 & Next.js 16</code> — Server Components, SSR & responsive state</li>
         <li><code>Kotlin (Android SDK)</code> — Native lifecycle, Material 3 & Jetpack Compose</li>
         <li><code>TypeScript & ESNext</code> — Strict type safety & compile-time correctness</li>
-        <li><code>Vite / Tailwind CSS</code> — Sub-millisecond HMR & utility design systems</li>
+        <li><code>Vite / Tailwind CSS</code> — Sub-millisecond HMR & utility design tokens</li>
       </ul>
       <h4>Data Stores, DevOps & Tooling</h4>
       <ul>
@@ -94,12 +94,12 @@ akillesh@node-01:~$ cat /proc/identity
 
 ---
 
-### `02.FLAGSHIP_SYSTEMS` // Production & Research
+### `02.FLAGSHIP_SYSTEMS` // Core Projects
 
 #### **01 / AI-Powered DevOps Monitoring Platform**
 `Node.js` • `Express` • `Socket.io` • `MongoDB` • `React / Vite` • `Helmet` • `Joi`
 
-> **Problem:** Distributed microservices lack lightweight, low-overhead monitoring tools that stream health telemetry and identify anomaly spikes without heavyweight third-party SaaS agents.
+> **Problem:** Distributed microservices lack lightweight monitoring tooling that streams real-time health telemetry and isolates anomaly spikes without heavyweight third-party SaaS agents.
 
 ```
 [Service Metrics / Ingestion] ──> [Express / Joi Validation] ──> [Socket.io Bus] ──> [Live Vite React Dashboard]
@@ -107,9 +107,9 @@ akillesh@node-01:~$ cat /proc/identity
                                       [MongoDB / Mongoose]
 ```
 
-- **Architecture:** Node.js HTTP/WebSocket hybrid server handling bi-directional metrics dispatch with real-time UI synchronization.
-- **Security & Integrity:** Hardened with `helmet` HTTP headers, `express-mongo-sanitize` for NoSQL injection mitigation, and JWT-authenticated session tokens.
-- **Verification:** Native Node.js test runner suite (`node --test`) covering unit and integration endpoints.
+- **Architecture:** Node.js HTTP/WebSocket hybrid server streaming live metric events with instant client synchronization.
+- **Security & Reliability:** Hardened via `helmet` HTTP headers, `express-mongo-sanitize` for NoSQL injection protection, and JWT session tokens.
+- **Verification:** Native Node.js test runner suite (`node --test`) covering unit and integration API routes.
 - **Status:** `[Active Production Build]` • [View Repository](https://github.com/Akillesh2006/AI-Powered-DevOps-Monitoring-Platform)
 
 ---
@@ -117,7 +117,7 @@ akillesh@node-01:~$ cat /proc/identity
 #### **02 / Adaptive Community — Rural Learning Platform**
 `TypeScript` • `Next.js 16` • `React 19` • `Google Generative AI` • `Tailwind CSS`
 
-> **Problem:** Standard digital learning platforms require high bandwidth and assume static curriculum pathways, failing students in low-connectivity rural environments.
+> **Problem:** Traditional e-learning platforms fail low-connectivity rural environments due to heavy asset payloads and rigid, one-size-fits-all curricula.
 
 ```
 [Rural Learner Client] ──> [Next.js 16 Edge Route] ──> [@google/generative-ai] ──> [Dynamic Modular Syllabus]
@@ -125,8 +125,8 @@ akillesh@node-01:~$ cat /proc/identity
                          [Cached Offline Progress State]
 ```
 
-- **Architecture:** Next.js 16 app leveraging Gemini LLM pipelines (`@google/generative-ai`) to synthesize modular, localized tutoring modules tailored to the student's mastery pace.
-- **Resilience:** Built on React 19 architecture optimized for minimal asset payload and low latency on mobile edge connections.
+- **Architecture:** Next.js 16 application leveraging Gemini LLM pipelines (`@google/generative-ai`) to synthesize adaptive tutoring modules tailored to learner pace.
+- **Resilience:** Built on React 19 architecture optimized for lightweight payloads and fast response on mobile edge connections.
 - **Status:** `[Active Core]` • [View Repository](https://github.com/Akillesh2006/Adaptive-Community)
 
 ---
@@ -134,7 +134,7 @@ akillesh@node-01:~$ cat /proc/identity
 #### **03 / SkillBridge — Dual-Surface Career Guidance Platform**
 `Kotlin (Android SDK)` • `Next.js` • `Python / Node Backend` • `Docker` • `Render / Vercel`
 
-> **Problem:** Job seekers struggle to identify concrete ATS keyword mismatches and lack realistic, interactive technical interview preparation.
+> **Problem:** Students lack accessible tools to identify precise ATS keyword gaps and simulate realistic technical interviews.
 
 ```
 [Kotlin Android Client] ──┐
@@ -142,26 +142,26 @@ akillesh@node-01:~$ cat /proc/identity
 [Next.js Web Portal]    ──┘
 ```
 
-- **Architecture:** Dual-surface interface (native Kotlin Android mobile app + Next.js web application) connected to a containerized intelligence backend.
-- **Core Engine:** Automates resume ATS score analysis, pinpoints semantic skill gaps, and runs multi-turn AI technical interview evaluations.
+- **Architecture:** Dual-surface client (native Kotlin Android mobile app + Next.js web portal) connected to containerized analysis microservices.
+- **Core Engine:** Automates resume ATS scoring, pinpoints semantic skill gaps, and runs multi-turn AI interview evaluations.
 - **Status:** `[Operational Prototype]` • [View Repository](https://github.com/Akillesh2006/SkillBridge)
 
 ---
 
-### `03.TRACK_RECORD` // Industry Experience
+### `03.INDUSTRY_EXPERIENCE` // Work History
 
 ```
-2026.05 ─── [Tiranex] ─────────────── UI/UX Engineering Intern (Design Systems & Micro-Interactions)
+2026.05 ─── [Tiranex] ─────────────── UI/UX Engineering Intern (Design Systems & Interaction Tokens)
 2025.10 ─── [Google Android] ──────── Virtual Developer Intern (Native Kotlin, Jetpack Architecture)
 2024.05 ─── [Alfido Tech] ─────────── Frontend Engineering Intern (Component Systems & Responsive Layouts)
 ```
 
-- **Tiranex** `[May 2026 – June 2026]` — *UI/UX Engineering Intern*  
-  Architected high-fidelity component specifications, interaction tokens, and intuitive user workflows for web interfaces.
+- **Tiranex** `[May 2026 – Jun 2026]` — *UI/UX Engineering Intern*  
+  Architected component specifications, interaction tokens, and responsive layout flows for web interfaces.
 - **Google Android Developer Virtual Internship** `[Oct 2025 – Dec 2025]` — *Android Developer Intern*  
   Engineered native Android application modules in Kotlin utilizing Jetpack Compose, Room persistence, and modern lifecycle architecture.
-- **Alfido Tech** `[May 2024 – June 2024]` — *Frontend Engineering Intern*  
-  Implemented modular, cross-browser frontend components using semantic HTML5, modern CSS3 layout paradigms, and JavaScript.
+- **Alfido Tech** `[May 2024 – Jun 2024]` — *Frontend Engineering Intern*  
+  Implemented modular, accessible frontend components using semantic HTML5, modern CSS3 layout paradigms, and JavaScript.
 
 ---
 
@@ -185,7 +185,7 @@ akillesh@node-01:~$ cat /proc/identity
 </div>
 
 - **Core Strengths:** Dynamic Programming, Graph Traversals (BFS/DFS), Tree Topologies, Two-Pointer Optimizations, Greedy Strategies.
-- **Language Disciplines:** C++, Java, Python, TypeScript.
+- **Languages:** C++, Java, Python, TypeScript.
 
 ---
 
