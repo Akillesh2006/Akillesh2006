@@ -1,216 +1,189 @@
 <div align="center">
 
-<!-- HEADER: SYSTEM IDENTITY & TELEMETRY -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=050505&height=180&section=header&text=AKILLESH%20K%20P&fontSize=42&fontColor=F0F6FC&fontAlignY=38&desc=Distributed%20Backends%20%E2%80%A2%20Real-Time%20Telemetry%20%E2%80%A2%20Applied%20GenAI&descFontSize=15&descColor=3B9EFF&descAlignY=64&stroke=1F242C&strokeWidth=1" width="100%" alt="Akillesh K P - Systems & AI Engineering" />
+<!-- SYSTEM INTERFACE BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=050505&height=170&section=header&text=AKILLESH%20K%20P&fontSize=40&fontColor=F0F6FC&fontAlignY=38&desc=Full-Stack%20Systems%20%E2%80%A2%20Real-Time%20Telemetry%20%E2%80%A2%20Applied%20GenAI&descFontSize=14&descColor=3B9EFF&descAlignY=64&stroke=1F242C&strokeWidth=1" width="100%" alt="Akillesh K P - Systems & AI Engineering" />
 
 <br/>
 
 [![Status](https://img.shields.io/badge/SYSTEM-ONLINE-10B981?style=flat-square&labelColor=050505&logo=statuspage&logoColor=10B981)](#)
 [![Academic](https://img.shields.io/badge/CIT_CHENNAI-B.E._CSE_'28-8B5CF6?style=flat-square&labelColor=050505&logo=google-scholar&logoColor=8B5CF6)](https://www.citchennai.edu.in)
 [![LeetCode](https://img.shields.io/badge/LEETCODE-402_SOLVED-FFA116?style=flat-square&labelColor=050505&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/Akillesh2006/)
-[![SkillRack](https://img.shields.io/badge/SKILLRACK-119_SOLVED-3B9EFF?style=flat-square&labelColor=050505&logo=codeforces&logoColor=3B9EFF)](#)
+[![Experience](https://img.shields.io/badge/INTERNSHIPS-3_COMPLETED-3B9EFF?style=flat-square&labelColor=050505&logo=target&logoColor=3B9EFF)](#)
 [![LinkedIn](https://img.shields.io/badge/NETWORK-CONNECT-0A66C2?style=flat-square&labelColor=050505&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/akillesh-k-p-791722292)
 
 </div>
 
----
-
-### `SYS.INIT` // Operator Profile
-
-> **Computer Science & Engineering undergraduate architecting event-driven backends, low-latency telemetry pipelines, and applied Generative AI systems.** Grounded in deterministic backend foundations (Node.js, Spring Boot 3, Kotlin) with an active trajectory toward production distributed systems.
-
 ```bash
-akillesh@node-01:~$ cat /proc/identity
-┌────────────────────┬────────────────────────────────────────────────────────┐
-│ OPERATOR           │ Akillesh K P (@Akillesh2006)                           │
-│ CORE DISCIPLINE    │ Full-Stack Architecture & Applied Generative AI        │
-│ CURRENT FOCUS      │ Real-Time Telemetry, WebSocket Pipelines & Gemini LLMs │
-│ INSTITUTION        │ Chennai Institute of Technology (B.E. CSE '28)         │
-│ STACK NUCLEUS      │ Node.js, Spring Boot 3, TypeScript, Kotlin, Python     │
-│ ALGORITHMIC BASE   │ 521+ Verified Problem Solutions (LeetCode + SkillRack) │
-└────────────────────┴────────────────────────────────────────────────────────┘
+akillesh@node-01:~$ sysctl --get identity.operator
+┌─ OPERATING CONSOLE ────────────────────────────────────────────────────────┐
+│ OPERATOR   Akillesh K P (@Akillesh2006)                                    │
+│ FOCUS      Distributed Backends · Real-Time Telemetry · Applied GenAI      │
+│ EDUCATION  Chennai Institute of Technology (B.E. CSE, 2024–2028)           │
+│ STACK      Node.js · Spring Boot 3 · TypeScript · Kotlin · Python · Gemini │
+│ STATUS     ● Systems Operational · Moving from Full-Stack to AI Systems    │
+└────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-### `01.DNA` // System Architecture & Capabilities
-
-```
-                  ┌──────────────────────────────────────────────┐
-                  │            APPLIED AI / ML LAYER             │
-                  │   Google GenAI (Gemini) • PyTorch • GenKit   │
-                  │   Transformer Pipelines • Prompt Heuristics  │
-                  └──────────────────────┬───────────────────────┘
-                                         │
-                  ┌──────────────────────┴───────────────────────┐
-                  │          DISTRIBUTED BACKEND & BUS           │
-                  │   Node.js/Express • Spring Boot 3 • Socket.io│
-                  │   REST Services • JWT / RBAC • Joi / Helmet  │
-                  └──────────────────────┬───────────────────────┘
-                                         │
-                  ┌──────────────────────┴───────────────────────┐
-                  │            CLIENT SURFACES & DATA            │
-                  │   React 19 / Next.js • Kotlin Native Android │
-                  │   MongoDB (Mongoose) • MySQL • Tailwind CSS  │
-                  └──────────────────────────────────────────────┘
-```
+### `01.FEATURED_SYSTEMS` // Core Architectural Work
 
 <table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>Applied AI & Machine Learning</h4>
-      <ul>
-        <li><code>Google Generative AI (Gemini API)</code> — Multimodal reasoning & structured outputs</li>
-        <li><code>PyTorch & Diffusion Models</code> — CUDA compute & transformer fine-tuning</li>
-        <li><code>Google GenKit</code> — Model orchestration & agentic flows</li>
-        <li><code>LangChain / Hugging Face</code> — Embedding retrieval & prompt chains</li>
-      </ul>
-      <h4>Backend & Distributed Telemetry</h4>
-      <ul>
-        <li><code>Node.js & Express.js</code> — Asynchronous event loop & RESTful APIs</li>
-        <li><code>Spring Boot 3</code> — Enterprise Java services, JPA & micro-routing</li>
-        <li><code>Socket.io (WebSockets)</code> — Bi-directional real-time message streaming</li>
-        <li><code>Security Layer</code> — JWT tokenization, Mongo-Sanitize, Helmet headers</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>Client Architecture & Mobile</h4>
-      <ul>
-        <li><code>React 19 & Next.js 16</code> — Server Components, SSR & responsive state</li>
-        <li><code>Kotlin (Android SDK)</code> — Native lifecycle, Material 3 & Jetpack Compose</li>
-        <li><code>TypeScript & ESNext</code> — Strict type safety & compile-time correctness</li>
-        <li><code>Vite / Tailwind CSS</code> — Sub-millisecond HMR & utility design tokens</li>
-      </ul>
-      <h4>Data Stores, DevOps & Tooling</h4>
-      <ul>
-        <li><code>Databases</code> — MongoDB (Mongoose), MySQL, PostgreSQL</li>
-        <li><code>Infrastructure</code> — AWS EC2, Vercel Edge, Render, Docker</li>
-        <li><code>Build & Quality</code> — Git, GitHub Actions, Oxlint, Node Test Runner</li>
-        <li><code>Languages</code> — TypeScript, JavaScript, Kotlin, Java, Python, C++, SQL</li>
-      </ul>
-    </td>
-  </tr>
+<tr>
+<td width="33%" valign="top">
+
+#### 🛰️ DevOps Monitoring
+**[AI-Powered DevOps Platform](https://github.com/Akillesh2006/AI-Powered-DevOps-Monitoring-Platform)**  
+*Low-overhead real-time telemetry streaming for microservices without SaaS agent bloat.*
+
+```text
+[Metrics Sensor]
+       ↓
+[Express / Joi Bus]
+       ↓
+[Socket.io Stream]
+       ↓
+[Live Vite UI]
+```
+
+`Node.js` `Socket.io` `MongoDB` `Vite`
+
+`● Active Build` • [→ Repository](https://github.com/Akillesh2006/AI-Powered-DevOps-Monitoring-Platform)
+
+</td>
+<td width="33%" valign="top">
+
+#### 🧠 Rural Learning Engine
+**[Adaptive Community](https://github.com/Akillesh2006/Adaptive-Community)**  
+*Adaptive tutoring engine synthesizing personalized Gemini LLM modules for rural edge devices.*
+
+```text
+[Rural Client]
+       ↓
+[Next.js 16 Route]
+       ↓
+[@google/gen-ai]
+       ↓
+[Dynamic Syllabus]
+```
+
+`Next.js 16` `React 19` `Gemini` `TS`
+
+`● Active Core` • [→ Repository](https://github.com/Akillesh2006/Adaptive-Community)
+
+</td>
+<td width="33%" valign="top">
+
+#### 🎯 Career Intelligence
+**[SkillBridge](https://github.com/Akillesh2006/SkillBridge)**  
+*Dual-surface platform running semantic ATS scoring and interactive AI mock interview simulations.*
+
+```text
+[Android + Web]
+       ↓
+[Docker Backend]
+       ↓
+[ATS Semantic Scan]
+       ↓
+[AI Mock Engine]
+```
+
+`Kotlin` `Next.js` `Docker` `Py`
+
+`● Prototype` • [→ Repository](https://github.com/Akillesh2006/SkillBridge)
+
+</td>
+</tr>
 </table>
 
 ---
 
-### `02.FLAGSHIP_SYSTEMS` // Core Projects
+### `02.ENGINEERING_DNA` // Capability Matrix
 
-#### **01 / AI-Powered DevOps Monitoring Platform**
-`Node.js` • `Express` • `Socket.io` • `MongoDB` • `React / Vite` • `Helmet` • `Joi`
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-> **Problem:** Distributed microservices lack lightweight monitoring tooling that streams real-time health telemetry and isolates anomaly spikes without heavyweight third-party SaaS agents.
-
+```text
+┌─ AI & INTELLIGENCE ──────────────────────────┐
+│ Google Gemini API · PyTorch · Google GenKit  │
+│ Diffusion Models · Transformers · LangChain  │
+└──────────────────────────────────────────────┘
+┌─ BACKEND & TELEMETRY ────────────────────────┐
+│ Node.js / Express · Spring Boot 3 · JPA      │
+│ Socket.io (WebSockets) · REST · JWT · Helmet │
+└──────────────────────────────────────────────┘
 ```
-[Service Metrics / Ingestion] ──> [Express / Joi Validation] ──> [Socket.io Bus] ──> [Live Vite React Dashboard]
-                                               │
-                                      [MongoDB / Mongoose]
+
+</td>
+<td width="50%" valign="top">
+
+```text
+┌─ CLIENT & MOBILE ────────────────────────────┐
+│ React 19 · Next.js 16 · Kotlin (Android SDK) │
+│ Jetpack Compose · TypeScript · Vite · CSS3   │
+└──────────────────────────────────────────────┘
+┌─ INFRASTRUCTURE & DATA ──────────────────────┐
+│ MongoDB · MySQL · AWS EC2 · Docker · Vercel  │
+│ Git · GitHub Actions · Node Test Runner      │
+└──────────────────────────────────────────────┘
 ```
 
-- **Architecture:** Node.js HTTP/WebSocket hybrid server streaming live metric events with instant client synchronization.
-- **Security & Reliability:** Hardened via `helmet` HTTP headers, `express-mongo-sanitize` for NoSQL injection protection, and JWT session tokens.
-- **Verification:** Native Node.js test runner suite (`node --test`) covering unit and integration API routes.
-- **Status:** `[Active Production Build]` • [View Repository](https://github.com/Akillesh2006/AI-Powered-DevOps-Monitoring-Platform)
+</td>
+</tr>
+</table>
 
 ---
 
-#### **02 / Adaptive Community — Rural Learning Platform**
-`TypeScript` • `Next.js 16` • `React 19` • `Google Generative AI` • `Tailwind CSS`
+### `03.TRACK_RECORD` // Industry History
 
-> **Problem:** Traditional e-learning platforms fail low-connectivity rural environments due to heavy asset payloads and rigid, one-size-fits-all curricula.
-
+```text
+2026.05 ─── [Tiranex] ─────────────── UI/UX Engineering Intern (Design Tokens & Component Systems)
+2025.10 ─── [Google Android] ──────── Virtual Developer Intern (Native Kotlin & Jetpack Architecture)
+2024.05 ─── [Alfido Tech] ─────────── Frontend Engineering Intern (Modular UI & JavaScript)
 ```
-[Rural Learner Client] ──> [Next.js 16 Edge Route] ──> [@google/generative-ai] ──> [Dynamic Modular Syllabus]
-                                       │
-                         [Cached Offline Progress State]
-```
-
-- **Architecture:** Next.js 16 application leveraging Gemini LLM pipelines (`@google/generative-ai`) to synthesize adaptive tutoring modules tailored to learner pace.
-- **Resilience:** Built on React 19 architecture optimized for lightweight payloads and fast response on mobile edge connections.
-- **Status:** `[Active Core]` • [View Repository](https://github.com/Akillesh2006/Adaptive-Community)
 
 ---
 
-#### **03 / SkillBridge — Dual-Surface Career Guidance Platform**
-`Kotlin (Android SDK)` • `Next.js` • `Python / Node Backend` • `Docker` • `Render / Vercel`
+### `04.ALGORITHMIC_RIGOR` // Quantitative Mastery
 
-> **Problem:** Students lack accessible tools to identify precise ATS keyword gaps and simulate realistic technical interviews.
-
+```text
+┌──────────────────────────────────────────────┬──────────────────────────────┐
+│ LEETCODE (@Akillesh2006)                     │ SKILLRACK                    │
+│ 402 Solved (206 Easy · 189 Medium · 7 Hard)  │ 119 Solved (Core Drills)     │
+└──────────────────────────────────────────────┴──────────────────────────────┘
 ```
-[Kotlin Android Client] ──┐
-                          ├──> [Microservice Backend / Docker] ──> [ATS Parsing & AI Mock Engine]
-[Next.js Web Portal]    ──┘
-```
-
-- **Architecture:** Dual-surface client (native Kotlin Android mobile app + Next.js web portal) connected to containerized analysis microservices.
-- **Core Engine:** Automates resume ATS scoring, pinpoints semantic skill gaps, and runs multi-turn AI interview evaluations.
-- **Status:** `[Operational Prototype]` • [View Repository](https://github.com/Akillesh2006/SkillBridge)
-
----
-
-### `03.INDUSTRY_EXPERIENCE` // Work History
-
-```
-2026.05 ─── [Tiranex] ─────────────── UI/UX Engineering Intern (Design Systems & Interaction Tokens)
-2025.10 ─── [Google Android] ──────── Virtual Developer Intern (Native Kotlin, Jetpack Architecture)
-2024.05 ─── [Alfido Tech] ─────────── Frontend Engineering Intern (Component Systems & Responsive Layouts)
-```
-
-- **Tiranex** `[May 2026 – Jun 2026]` — *UI/UX Engineering Intern*  
-  Architected component specifications, interaction tokens, and responsive layout flows for web interfaces.
-- **Google Android Developer Virtual Internship** `[Oct 2025 – Dec 2025]` — *Android Developer Intern*  
-  Engineered native Android application modules in Kotlin utilizing Jetpack Compose, Room persistence, and modern lifecycle architecture.
-- **Alfido Tech** `[May 2024 – Jun 2024]` — *Frontend Engineering Intern*  
-  Implemented modular, accessible frontend components using semantic HTML5, modern CSS3 layout paradigms, and JavaScript.
-
----
-
-### `04.ALGORITHMIC_RIGOR` // Quantitative Problem Solving
 
 <div align="center">
-
-```
-================================================================================
-  PLATFORM              TOTAL SOLVED      EASY        MEDIUM       HARD
-================================================================================
-  LeetCode (@Akillesh2006)    402         206          189           7
-  SkillRack                   119          --           --          --
---------------------------------------------------------------------------------
-  AGGREGATE VERIFIED          521+ Problems Mastered
-================================================================================
-```
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Akillesh2006?theme=dark&font=Ubuntu%20Mono&ext=activity)](https://leetcode.com/u/Akillesh2006/)
 
 </div>
 
-- **Core Strengths:** Dynamic Programming, Graph Traversals (BFS/DFS), Tree Topologies, Two-Pointer Optimizations, Greedy Strategies.
-- **Languages:** C++, Java, Python, TypeScript.
-
 ---
 
-### `05.ACTIVE_TRAJECTORY` // Continuous Exploration & Roadmap
+### `05.ACTIVE_TRAJECTORY` // Continuous Ascent
 
 <table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>⚡ Active R&D</h4>
-      <ul>
-        <li><strong>Distributed Consensus:</strong> Implementing Raft / Paxos primitives in Go & C++.</li>
-        <li><strong>Agentic LLM Pipelines:</strong> Multi-agent coordination with structured tool calling & GenKit.</li>
-        <li><strong>eBPF & Kernel Telemetry:</strong> Low-overhead packet inspection & server health probes.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🎯 Roadmap (2024 – 2028)</h4>
-      <ul>
-        <li><code>2024</code> — <em>Foundations:</em> DSA mastery, frontend component architecture.</li>
-        <li><code>2025</code> — <em>Systems:</em> Native Android, Spring Boot 3, REST services.</li>
-        <li><code>2026</code> — <em>Orchestration:</em> Real-time telemetry, WebSockets, LLM agents.</li>
-        <li><code>2027-2028</code> — <em>Production Scale:</em> High-throughput distributed AI systems.</li>
-      </ul>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+#### ⚡ Active R&D
+* **Distributed Consensus:** Raft / Paxos primitives in Go & C++.
+* **Agentic Workflows:** Multi-agent LLM tool-calling with GenKit.
+* **Kernel Telemetry:** eBPF low-overhead packet inspection.
+
+</td>
+<td width="50%" valign="top">
+
+#### 🎯 Systems Roadmap
+* `2024` — *Foundations:* DSA rigor & frontend component systems.
+* `2025` — *Systems:* Native Android & Spring Boot 3 services.
+* `2026` — *Orchestration:* Real-time telemetry & LLM agents.
+* `2027-2028` — *Production Scale:* Distributed AI infrastructure.
+
+</td>
+</tr>
 </table>
 
 ---
@@ -219,7 +192,7 @@ akillesh@node-01:~$ cat /proc/identity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Akillesh2006&show_icons=true&theme=tokyonight&bg_color=050505&border_color=1F242C&title_color=3B9EFF&text_color=E6EDF3&icon_color=8B5CF6&hide_border=false" alt="Akillesh2006 GitHub Stats" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Akillesh2006&show_icons=true&theme=tokyonight&bg_color=050505&border_color=1F242C&title_color=3B9EFF&text_color=E6EDF3&icon_color=8B5CF6&hide_border=false" alt="GitHub Stats" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akillesh2006&layout=compact&theme=tokyonight&bg_color=050505&border_color=1F242C&title_color=3B9EFF&text_color=E6EDF3&icon_color=8B5CF6&hide_border=false" alt="Top Languages" width="49%" />
 
 <br/>
@@ -230,24 +203,16 @@ akillesh@node-01:~$ cat /proc/identity
 
 ---
 
-### `07.PHILOSOPHY` // Engineering Tenets
+### `07.PHILOSOPHY` // Tenet
 
-> *“Complexity is a failure of abstraction. Reliable software begins with clean system boundaries, explicit state transitions, and an obsession with developer ergonomics.”*
-
-1. **Deterministic Foundations:** Write clean, typed code before introducing probabilistic AI components.
-2. **Instrumentation First:** If a system cannot be measured in real-time, it cannot be reliably scaled.
-3. **Continuous Trajectory:** Ship early, verify against live benchmarks, and iterate monotonically.
-
----
-
-### `08.DISPATCH` // Connect & Collaborate
+> *“Complexity is a failure of abstraction — clean boundaries first, deterministic telemetry always, AI second.”*
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GITHUB-Akillesh2006-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akillesh2006)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Akillesh_K_P-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akillesh-k-p-791722292)
 [![LeetCode](https://img.shields.io/badge/LEETCODE-Akillesh2006-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Akillesh2006/)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-LIVE_PROJECTS-8B5CF6?style=for-the-badge&logo=safari&logoColor=white)](https://github.com/Akillesh2006)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-LIVE_SYSTEMS-8B5CF6?style=for-the-badge&logo=safari&logoColor=white)](https://github.com/Akillesh2006)
 
 <br/>
 
